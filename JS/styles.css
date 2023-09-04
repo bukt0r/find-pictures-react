@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(141, 35, 70);
+    display: flex;
+    justify-content: center;
+}
+
+#result-search {
+    display: none;
+}
+
+#nav-pages {
+    vertical-align:bottom;
+    position: fixed;
+}
