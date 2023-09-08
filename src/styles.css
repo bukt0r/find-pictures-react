@@ -1,0 +1,25 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    color: #fff;
+}
+
+.header {
+    background-color: #690d40f6;
+    padding: 40px;
+}
+
+
+.image-container {
+    
+    text-align: center; 
+}
+  
+.image-card {
+    width: 300px; 
+    margin: 50px; 
+    display: inline-block; 
+    vertical-align: top; 
+}
